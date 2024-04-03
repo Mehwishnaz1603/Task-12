@@ -1,0 +1,13 @@
+{
+  "name": "task-12",
+  "version": "1.0.0",
+  "description": "Greetings: Start with the array you used in Exercise 11, but instead of just printing each person’s  name, print a message to them. The text of each message should be the same, but each message should be personalized with the person’s name.",
+  "main": "index.js",
+  "type":"module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
